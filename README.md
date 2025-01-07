@@ -1,4 +1,4 @@
-# OmniCLIP: Adapting CLIP for Video Recognition with Spatial-Temporal Omni-Scale Feature Learning
+# [ECAI-2024] OmniCLIP: Adapting CLIP for Video Recognition with Spatial-Temporal Omni-Scale Feature Learning
 Official implementation of the paper "[OmniCLIP: Adapting CLIP for Video Recognition with Spatial-Temporal Omni-Scale Feature Learning](https://arxiv.org/abs/2408.06158)".
 
 ## Citation
